@@ -36,7 +36,7 @@ header .menu{
     flex-wrap: wrap; /*La propiedad flex-wrap de CSS especifica si los elementos "hijos" son obligados a permanecer en una misma línea o pueden fluir en varias líneas. */
 }
 header .menu a:hover{
-    text-decoration: underline;
+    text-decoration: underline; /*hace q el puntero del mouse cambie a una manito*/
 }
 header .menu a{
     font-size:18px;
